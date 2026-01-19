@@ -20,7 +20,7 @@ import tailwindcss from '@tailwindcss/vite'
 import svelte from '@astrojs/svelte';
 
 export default defineConfig({
-  site: 'https://aura.dev',
+  site: 'https://Lumina.dev',
   output: 'static',
   adapter: vercel({
     webAnalytics: {
